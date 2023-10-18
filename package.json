@@ -1,0 +1,19 @@
+{
+  "name": "Tv Box Red",
+  "date": "2019.05.11",
+  "version": "1.1.0",
+  "description": "Application for IPTV-devices. All content from site tv-box-red.com.",
+  "author": {
+    "name": "odrick1990",
+    "email": "odrick1990@proton.me"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/odrick1990/TvBoxRed.git"
+  },
+  "dependencies": {},
+  "config": {
+    "backgroundColor":"#eda944",
+    "icons":"icons"
+  }
+}
